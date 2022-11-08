@@ -4,8 +4,6 @@ public class Solution {
     public int solution(int n) {
         int answer = 0;
         
-        // 12를 10으로 나누고 몫과 나머지를 더한다.
-        
         // 103을 10으로 나누고 몫은 10 나머지 3
         // 10을 10으로 나누고 몫은 1 나머지 0
         // 나머지를 반복해서 다 더해준다.
